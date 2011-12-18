@@ -1,5 +1,4 @@
-
- dev-install.sh
+ dev_install.sh
 ======
   bash file that installs in your mint-11
 ==========================================
